@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashok\\Desktop\\IOT\\Project-final\\AspDotNet\\WebSocketServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63CC79F6-6E2E-4449-BE7E-8672D2AA88E9}|WebSocketServer.csproj|c:\\users\\ashok\\desktop\\iot\\project-final\\aspdotnet\\websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CC79F6-6E2E-4449-BE7E-8672D2AA88E9}|WebSocketServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CC79F6-6E2E-4449-BE7E-8672D2AA88E9}|WebSocketServer.csproj|c:\\users\\ashok\\desktop\\iot\\project-final\\aspdotnet\\websocketserver\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CC79F6-6E2E-4449-BE7E-8672D2AA88E9}|WebSocketServer.csproj|solutionrelative:controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebSocketController.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Desktop\\IOT\\Project-final\\AspDotNet\\WebSocketServer\\Controllers\\WebSocketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebSocketController.cs",
+              "ToolTip": "C:\\Users\\ashok\\Desktop\\IOT\\Project-final\\AspDotNet\\WebSocketServer\\Controllers\\WebSocketController.cs",
+              "RelativeToolTip": "Controllers\\WebSocketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:31:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Desktop\\IOT\\Project-final\\AspDotNet\\WebSocketServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ashok\\Desktop\\IOT\\Project-final\\AspDotNet\\WebSocketServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:23:27.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

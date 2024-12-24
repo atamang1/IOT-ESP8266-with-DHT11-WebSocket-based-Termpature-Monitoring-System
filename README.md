@@ -48,6 +48,8 @@ Display 2 shows temperature in Celcius
 Display 3 shows humidity 
 ![front-end-h](https://github.com/user-attachments/assets/156e7044-4280-4a94-b0d3-390c8327e550)
 
+## Real-time Temperature Data: 
+![real-time-image](https://github.com/user-attachments/assets/972846e9-1941-4a91-9845-c9bacdd47b6f)
 
 ## Running the Project 
 #### Step 1: Upload the ESP8266 code 
